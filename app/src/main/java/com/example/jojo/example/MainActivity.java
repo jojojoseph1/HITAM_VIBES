@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void run(){
-                Intent homeIntent = new Intent(MainActivity.this,second.class);
+                Intent homeIntent = new Intent(MainActivity.this,NavAct.class);
                 startActivity(homeIntent);
                 finish();
             }
