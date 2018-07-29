@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287998321606",
+    "firebase_url": "https://hitamvibes.firebaseio.com",
+    "project_id": "hitamvibes",
+    "storage_bucket": "hitamvibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287998321606:android:082c7978a616e04a",
+        "android_client_info": {
+          "package_name": "com.example.jojo.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287998321606-ar7q68v6ac0snk2v5ni53ru8kcb3bk4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jojo.example",
+            "certificate_hash": "957fac1ea97c4686a1c23b39d5c9ae66e4f54c84"
+          }
+        },
+        {
+          "client_id": "287998321606-jirnqt5dql9ftl17b28nno87g9qvetjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs0yzTptmCuetU74lbH38vvBPOQPffrs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287998321606-jirnqt5dql9ftl17b28nno87g9qvetjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
